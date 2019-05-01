@@ -1,6 +1,6 @@
 # ML---house-price-predictions
 
-![image.png](attachment:image.png)
+![image.png](attachment:house.png)
 
 ## Introduction
 
