@@ -13,7 +13,7 @@ Lastly, we will fit train data in different algorithm models and evaluate them b
 ## Data fields
 Here's a brief version of what you'll find in the data description file.
 
-SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.\n
 MSSubClass: The building class
 MSZoning: The general zoning classification
 LotFrontage: Linear feet of street connected to property
