@@ -1,5 +1,4 @@
 # ML---house-price-predictions
-
 ![image.png](house.png)
 
 
