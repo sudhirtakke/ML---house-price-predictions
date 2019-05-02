@@ -2,6 +2,7 @@
 
 ![image.png](house.png)
 
+
 ## Introduction
 
 The goal of this project is to predict the house sales prices from the given data. The first part consists of various visualization and normalization. By visualizing the distribution of features, we can gain some insight how to handle the data and determine the direction of the project. Also the distribution of target variable is transformed to normal by taking logarithm function so that they can fit many linear models better and lead better performance.
