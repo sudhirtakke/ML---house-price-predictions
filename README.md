@@ -25,4 +25,5 @@ Here's a brief version of what you'll find in the data description file.
 - Sales price data was skewed and we applied log1p function for reducing skeweness <br>
 - We applied different algorithms and evaluated those based on R-squared values <br>
 
+[Jupyter Notebook](./Sudhir/Term 2 - Basic ML/House price predictions.ipynb)
 
