@@ -13,4 +13,4 @@ Lastly, we will fit train data in different algorithm models and evaluate them b
 ## Data fields
 Here's a brief version of what you'll find in the data description file.
 
-![image.png](images/house2.png)
+![image.png](images/image2.png)
