@@ -14,3 +14,8 @@ Lastly, we will fit train data in different algorithm models and evaluate them b
 Here's a brief version of what you'll find in the data description file.
 
 ![image.png](images/image2.png)
+
+## Project analysis
+
+![image.png](images/image3.png)
+
