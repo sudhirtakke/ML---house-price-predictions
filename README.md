@@ -1,4 +1,4 @@
-# Machine Learning : house-price-predictions
+# Machine Learning : house price predictions
 ![image.png](images/house.png)
 
 
